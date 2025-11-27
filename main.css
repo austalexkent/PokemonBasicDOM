@@ -4,6 +4,10 @@
     background-color: black;
     color: lime;
 }
+.lightMode {
+    background-color:#fbe9d0;
+    color: black;
+}
 img {
     width: 175px;
     height: 175px;
@@ -43,8 +47,4 @@ ul {
 li {
     margin: 25px;
     margin-left: 60px;
-}
-.lightmode {
-    background-color:#fbe9d0;
-    color: black;
 }
