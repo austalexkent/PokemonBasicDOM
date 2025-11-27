@@ -1,24 +1,5 @@
-# Pokemon Game ReadMe!
+## A pokemon webpage with basic click functionality
 
-## Purpose
+# Skills learned
 
-- to learn to use 
-    - HyperTextMarkupLanguage
-    - MarkDown
-    - CascadingStyleSheets
-    - JavaScript
-    - CommandLineInterface
-    - Git version control system
-    - GitHub remote version control hosting
-    - a few other smaller softwares, languages, or extensions not mentioned.
-
-## Objective
-
-- to create a functional pokemon game as described by General Assembly Software Engineer Bootcamp prep course.
-
-### Notes
-
-
-### Change Log
-
-2025 11 25: 
+- DOM Manipulaiton basics: searchQuery, addEventListener, arrays, random calling of images.
